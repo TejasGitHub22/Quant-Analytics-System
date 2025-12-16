@@ -45,5 +45,10 @@ streamlit run app.py
 5. (Optional) Upload OHLC CSV file for additional analysis
 
 ### AI Usage Transparency
-See [AI_USAGE_TRANSPARENCY.md](AI_USAGE_TRANSPARENCY.md) for detailed information about ChatGPT and Cursor usage during development.
+See [CHATGPT_USAGE.md](CHATGPT_USAGE.md) for detailed information about ChatGPT and Cursor usage during development.
+
+### Architecture Diagram
+The architecture diagram is available in `architecture.drawio`. To view it:
+1. Open `architecture.drawio` in [draw.io](https://app.diagrams.net/)
+2. Export as PNG to create `architecture.png` (optional)
 
